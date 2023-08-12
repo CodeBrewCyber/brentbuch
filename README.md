@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brent! <br/><a href="https://github.com/brentbuch17">Cybersecurity Professional</a>
+<h1>Hi, I'm Brent! <br/><a href="https://linkedin.com/brentbuch17">Cybersecurity Professional</a>
 
 <h3> 🔭 I’m currently working on increasing my knowledge of Cybersecurity through various projects and sites like <a href="https://www.tryhackme.com">TryHackMe</a>.
 
