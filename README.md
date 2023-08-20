@@ -1,11 +1,11 @@
-<h1>Hi, I'm Brent! <br/><a href="https://linkedin.com/brentbuch17">Cybersecurity Professional</a>
+<h1>Hi, I'm Brent! <br/><a href="https://linkedin.com/in/brentbuch17">Cybersecurity Professional</a>
 
 <h3> 🔭 I’m currently working on increasing my knowledge of Cybersecurity through various projects and sites like <a href="https://www.tryhackme.com">TryHackMe</a>.
 
 <h2>👨🏻‍💻 Cybersecurity Projects:</h2>
 
-- <b>Hello World</b>
-  - [Hello World](https://github.com/brentbuch/helloworld)
+- <b>SOC Analyst Lab</b>
+  - [SOC Analyst Lab](https://github.com/brentbuch/CyberLabs/tree/main/SOC-Analyst-Lab)
 
 
 <h2>📋 Certifications</h2>
@@ -18,7 +18,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BrentBuch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/brentbuch17
 
