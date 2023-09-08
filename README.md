@@ -8,7 +8,7 @@
   - [SOC Analyst Lab](https://github.com/brentbuch/CyberLabs/tree/main/SOC-Analyst-Lab)
 
 - <b>Microsoft Sentinel Lab</b>
-  - [Microsoft Sentinel Lab](https://github.com/brentbuch/CyberLabs/tree/main/SOC-Analyst-Lab)
+  - [Microsoft Sentinel Lab](https://github.com/brentbuch/CyberLabs/tree/main/Azure-Sentinel-Lab)
 
 
 <h2>📋 Certifications</h2>
