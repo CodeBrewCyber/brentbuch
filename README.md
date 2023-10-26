@@ -10,6 +10,8 @@
 - <b>Microsoft Sentinel Lab</b>
   - [Microsoft Sentinel Lab](https://github.com/brentbuch/CyberLabs/tree/main/Azure-Sentinel-Lab)
 
+- <b>Nessus Vulnerability Management Lab</b>
+  - [Nessus Vulnerability Lab](https://github.com/brentbuch/CyberLabs/blob/main/Nessus-Lab)
 
 <h2>📋 Certifications</h2>
 
